@@ -1,0 +1,38 @@
+.bgImg{
+    background-image: url(nailTech.jpg);
+background-size: cover;
+width: auto;
+}
+
+
+
+body{
+    background-color: #fadce1;
+    font-family: 'Roboto', sans-serif;
+}
+ #sections{
+    margin-left: 5px;
+    margin-right: 5px;
+ }
+
+ .footer{
+    background-color: rgb(199, 199, 199);
+ }
+
+ .about{
+    background-color: azure;
+    width: 80%;
+    height: auto;
+    
+ }
+
+ .tagLine{
+background-color: rgba(240, 255, 255, 0.7);
+margin: auto;
+width: 80%;
+ }
+
+ li{
+    margin: 5px;
+ }
+ 
