@@ -9,11 +9,9 @@ width: auto;
 body{
     background-color: #fadce1;
     font-family: 'Roboto', sans-serif;
+   
 }
- #sections{
-    margin-left: 5px;
-    margin-right: 5px;
- }
+
 
  .footer{
     background-color: rgb(199, 199, 199);
@@ -28,11 +26,13 @@ body{
 
  .tagLine{
 background-color: rgba(240, 255, 255, 0.7);
-margin: auto;
 width: 80%;
+
  }
 
  li{
     margin: 5px;
  }
+
+
  
